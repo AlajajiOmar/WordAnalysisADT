@@ -86,3 +86,6 @@ are not evenly distributed (also we are not going to include reading):
   6 = O(n)                                                                        
   7 = O(n)                                                                        
   
+Team members:
+  Omar Alajaji (me) - Team leader
+  Abdulaziz Alabdullatif

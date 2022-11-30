@@ -5,7 +5,7 @@ In this project, we made a program that can analyze data and perform specific gi
 
 The Design:
 
-  ![image](https://user-images.githubusercontent.com/72312883/204817266-35dec432-a9da-4c36-97a5-85731ac71598.png)
+  ![image](https://user-images.githubusercontent.com/72312883/204819036-fd8be949-34f2-43a8-bb59-68762052fd79.png)
 
 
 

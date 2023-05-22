@@ -1,5 +1,5 @@
 # WordAnalysisADT
-It was my Project for Data Structure course at King Saud University Using J
+It was my Project for Data Structure course at King Saud University Using Java
 
 In this project, we made a program that can analyze words and perform specific given operations by the Professor using only LinkedList and without using libraries so basically making everything from scratch, and the operations need to have the same Big-Ohh that is given to us by the professor. 
 
